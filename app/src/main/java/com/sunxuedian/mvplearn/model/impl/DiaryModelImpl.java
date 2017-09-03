@@ -1,7 +1,6 @@
 package com.sunxuedian.mvplearn.model.impl;
 
 import android.os.Handler;
-import android.os.Message;
 
 import com.sunxuedian.mvplearn.bean.DiaryBean;
 import com.sunxuedian.mvplearn.model.IDiaryModel;
